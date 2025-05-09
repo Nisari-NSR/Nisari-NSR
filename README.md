@@ -1,9 +1,7 @@
 ## Hi there 👋
 
+Welcome to my Github Profile, I'm Nisari Ramachandran, a Data Science Enthusiast interested in uncovering insights from Data for solving complex problems. 
 
-**Nisari-NSR/Nisari-NSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisaritnr@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisari-ramachandran-1bb2211b3/)
